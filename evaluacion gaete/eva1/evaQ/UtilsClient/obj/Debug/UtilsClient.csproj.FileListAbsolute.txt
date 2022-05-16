@@ -1,0 +1,12 @@
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\bin\Debug\UtilsClient.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\bin\Debug\UtilsClient.pdb
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.pdb
+C:\Users\omar\source\repos\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\bin\Debug\UtilsClient.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\bin\Debug\UtilsClient.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsClient\obj\Debug\UtilsClient.pdb

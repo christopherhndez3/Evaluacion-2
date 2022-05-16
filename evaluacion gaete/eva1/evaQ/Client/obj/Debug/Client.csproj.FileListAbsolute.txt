@@ -1,0 +1,24 @@
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\Client.exe.config
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\Client.exe
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\Client.pdb
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\UtilsClient.dll
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\UtilsMedidor.dll
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\UtilsClient.pdb
+C:\Users\omar\source\repos\eva1\evaQ\Client\bin\Debug\UtilsMedidor.pdb
+C:\Users\omar\source\repos\eva1\evaQ\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\omar\source\repos\eva1\evaQ\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\eva1\evaQ\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\omar\source\repos\eva1\evaQ\Client\obj\Debug\Client.exe
+C:\Users\omar\source\repos\eva1\evaQ\Client\obj\Debug\Client.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\Client.exe.config
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\Client.exe
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\Client.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\UtilsClient.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\UtilsMedidor.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\UtilsClient.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\bin\Debug\UtilsMedidor.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\obj\Debug\Client.exe
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\Client\obj\Debug\Client.pdb

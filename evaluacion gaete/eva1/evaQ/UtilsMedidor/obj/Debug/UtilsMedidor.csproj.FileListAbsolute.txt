@@ -1,0 +1,12 @@
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\bin\Debug\UtilsMedidor.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\bin\Debug\UtilsMedidor.pdb
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.csproj.AssemblyReference.cache
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\bin\Debug\UtilsMedidor.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\bin\Debug\UtilsMedidor.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsMedidor\obj\Debug\UtilsMedidor.pdb

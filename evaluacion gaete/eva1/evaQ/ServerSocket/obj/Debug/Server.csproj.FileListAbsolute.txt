@@ -1,0 +1,24 @@
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\UtilsMedidor.dll
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\UtilsServer.dll
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\UtilsMedidor.pdb
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\bin\Debug\UtilsServer.pdb
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.CopyComplete
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\omar\source\repos\eva1\evaQ\ServerSocket\obj\Debug\ServerSocket.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\UtilsMedidor.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\UtilsServer.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\UtilsMedidor.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\bin\Debug\UtilsServer.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\obj\Debug\Server.csproj.CopyComplete
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\ServerSocket\obj\Debug\ServerSocket.pdb

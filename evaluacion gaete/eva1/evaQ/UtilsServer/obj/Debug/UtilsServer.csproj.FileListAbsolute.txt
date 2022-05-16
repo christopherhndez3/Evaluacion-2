@@ -1,0 +1,12 @@
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\bin\Debug\UtilsServer.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\bin\Debug\UtilsServer.pdb
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.dll
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.pdb
+C:\Users\omar\source\repos\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\bin\Debug\UtilsServer.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\bin\Debug\UtilsServer.pdb
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.dll
+C:\Users\chris\Desktop\evaluacion gaete\eva1\evaQ\UtilsServer\obj\Debug\UtilsServer.pdb
